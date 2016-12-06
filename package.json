@@ -1,0 +1,35 @@
+{
+  "name": "12_custom_javascript_scrollbar",
+  "version": "1.0.0",
+  "description": "Custom javascript scrollbar.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "scrollbar",
+    "javascript"
+  ],
+  "author": "Aleš Brelih",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap-sass": "^3.3.7",
+    "jquery": "^3.1.1",
+    "jquery-ui-browserify": "^1.11.0-pre-seelio",
+    "jquery-ui-npm": "^1.12.0"
+  },
+  "devDependencies": {
+    "babel-preset-latest": "^6.16.0",
+    "babelify": "^7.3.0",
+    "browser-sync": "^2.18.2",
+    "browserify": "^13.1.1",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-buffer": "0.0.2",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.9.1",
+    "gutil": "^1.6.4",
+    "vinyl-source-stream": "^1.1.0"
+  }
+}
